@@ -6,7 +6,7 @@
   "static/chunks/node_modules_@stackframe_stack_dist_esm_e4c1492e._.js",
   "static/chunks/node_modules_@tanstack_table-core_build_lib_index_mjs_b0999871._.js",
   "static/chunks/node_modules_@radix-ui_8ec11beb._.js",
-  "static/chunks/node_modules_7743c70a._.js"
+  "static/chunks/node_modules_74b2230c._.js"
 ],
     source: "dynamic"
 });
