@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
-    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Earl/Desktop/inventory-system/app/sign-in/page.tsx"],"sourcesContent":["import { SignIn } from \"@stackframe/stack\";\r\nimport Link from \"next/link\";\r\n\r\nexport default function SignInPage() {\r\n    return(\r\n        <div className=\"min-h-screen flex items-center justify-center bg-gradient-to-br from-purple-50 to-purple-100\">\r\n            <div className=\"max-w-md w-full space-y-8\">\r\n                <SignIn />\r\n                <Link href={'/'}>Home</Link>\r\n            </div>\r\n        </div>\r\n    )\r\n}"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AAEe,SAAS;IACpB,qBACI,8OAAC;QAAI,WAAU;kBACX,cAAA,8OAAC;YAAI,WAAU;;8BACX,8OAAC,kMAAM;;;;;8BACP,8OAAC,uKAAI;oBAAC,MAAM;8BAAK;;;;;;;;;;;;;;;;;AAIjC","debugId":null}}]
-}
